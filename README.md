@@ -1,2 +1,2 @@
-# to_do_list
-Projeto apenas para praticar sintaxe de java
+# TO DO LIST
+Pequeno projeto feito apenas para praticar a sintaxe da linguagem java
